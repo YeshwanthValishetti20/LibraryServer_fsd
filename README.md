@@ -1,4 +1,3 @@
-Sure! Here are the notes you can copy and paste into your README file for the backend:
 
 ---
 
